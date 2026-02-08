@@ -31,7 +31,7 @@ This project is built using React functional components and React Hooks, without
 ### 🏠 Main To-Do Interface
 ![Main To-Do UI](todo.png)
 
-###💾 Local Storage Persistence
+### 💾 Local Storage Persistence
 ![Storage](local.png)
 
 
